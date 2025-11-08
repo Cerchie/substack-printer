@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Substack Printer",
+  "version": "1.0",
+  "description": "Format Substack articles for printing",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
+
